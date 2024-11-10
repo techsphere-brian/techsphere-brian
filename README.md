@@ -10,8 +10,7 @@ I am a passionate software developer with a strong background in computer scienc
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/brian-ochieng/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Brian ochieng" /></a>
-<a href="https://twitter.com/kalutu_daniel" target="_blank">
-  <img align="center" src="#" alt="Brian Twitter" />
+<a href="https://twitter.com/jicholawananchi" target="_blank">
 </a>
 
 <br>
